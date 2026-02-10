@@ -1,4 +1,5 @@
 # Ncodes-demo
 This is my first Git Repository.
 <br>
-Author - Niran Chaudhary
+Author - Niran Chaudhary(i love coding)
+
